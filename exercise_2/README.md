@@ -1,0 +1,1 @@
+Write a program that stores the string "Hello, World!" in a variable and prints it to the screen
