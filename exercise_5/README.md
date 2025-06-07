@@ -1,0 +1,1 @@
+Write a Python function called are_anagrams(str1, str2) that takes two strings and returns True if they are anagrams of each other (ignoring spaces and case), and False otherwise.
