@@ -1,0 +1,1 @@
+Write a Python program that generates and prints the first 100 numbers in the Fibonacci sequence.
