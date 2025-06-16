@@ -1,0 +1,1 @@
+Given a list of integers from 1 to 10, use list comprehension to create a new list that contains the squares of the even numbers only.
