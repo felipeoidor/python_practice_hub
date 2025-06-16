@@ -1,0 +1,1 @@
+You have a list of names, some of which start with a lowercase letter and others with uppercase. Use list comprehension to create a new list that contains only the names that start with an uppercase letter, but convert them all to uppercase in the result.
