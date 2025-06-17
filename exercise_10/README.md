@@ -1,0 +1,1 @@
+You're given a string that contains a mix of letters and digits. Use list comprehension to extract all the digits and store them as integers in a list.
