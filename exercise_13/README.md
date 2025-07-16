@@ -1,0 +1,1 @@
+Write a program that prompts the user to enter a decimal integer and then converts it to the binary
