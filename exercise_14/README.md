@@ -1,6 +1,8 @@
+## Binary to Decimal converter
+
 Write a Python script that converts a binary number into its equivalent decimal value.
 
-Requirements:
+### Requirements:
 - The user must enter a binary number
 - The script should convert each bit of the binary number to its corresponding decimal value using the formula:
 
